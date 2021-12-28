@@ -1,0 +1,11 @@
+# contenate in this order
+#
+# file clips/color-red.mp4
+# file clips/color-green.mp4
+# file content/smtpebars.mp4
+# file clips/color-yellow.mp4
+
+file render/red-text.mp4
+file render/green-text.mp4
+file content/smtpebars.mp4
+file render/yellow-text.mp4
